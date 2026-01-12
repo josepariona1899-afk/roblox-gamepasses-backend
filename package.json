@@ -1,6 +1,9 @@
 {
   "name": "roblox-gamepasses-backend",
   "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "express": "^4.19.2"
   },
